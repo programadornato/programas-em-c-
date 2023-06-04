@@ -1,3 +1,5 @@
+#include <iostream>
+#include <iomanip>
 using namespace std;
 
 int passagem(int viagem_para_coutry_destinado){
